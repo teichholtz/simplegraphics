@@ -55,7 +55,7 @@ public class MainActivity extends Activity {
 			paint.setColor(Color.BLACK);
 			paint.setStrokeWidth(25);
 			canvas.drawLine(250, 250, 750, 250, paint);
-
+			// a comment
 
 
 
